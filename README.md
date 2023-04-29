@@ -39,4 +39,4 @@ Pour lancer le jeu, exécutez la commande suivante en spécifiant le chemin vers
 Vous pouvez utiliser les touches WASD pour vous déplacer, les touches fléchées pour tourner la caméra, et la touche ESC pour quitter le jeu.
 
 <p><span style="font-size: 28px;"><span style="color: rgb(65, 168, 95);"><strong>Auteur</strong></span></span></p>
-Ce projet a été réalisé par <p><span style='font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;'><strong><em>BOUGHANMI Youssef</em></strong></span></p> dans le cadre de la formation à l'école 42.
+<p> Ce projet a été réalisé par  <span style='font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;'><strong><em>BOUGHANMI Youssef</em></strong></span> dans le cadre de la formation à l'école 42.</p>
